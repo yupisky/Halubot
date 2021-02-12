@@ -1,13 +1,14 @@
 # UserbotIndoBot
 Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 
-Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [HalubotHikariBot](https://github.com/AyraHikari/HalubotHikariBot)
+Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
-[Read english README](https://github.com/MoveAngel/UserbotindoBot/blob/master/README.en.md)
+[Read english README](https://github.com/jagoanpilot/Halubot/blob/master/README.en.md)
 
-**If you want to translate this bot**, [please go here](https://github.com/MoveAngel/UserbotindoBot/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/jagoanpilot/Halubot/blob/master/TRANSLATION.md)
 
-Dapat ditemukan di telegram sebagai [UserbotindoBot](https://t.me/userbotindobot).
+Dapat ditemukan di telegram sebagai [halunersbot](https://t.me/halunersbot.).
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jagoanpilot/Halubot)
 
 
 # source info
