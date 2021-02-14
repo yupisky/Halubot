@@ -11,8 +11,8 @@ class Config(object):
 
     # REQUIRED
     API_KEY = "YOUR KEY HERE"
-    OWNER_ID = "YOUR ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
+    OWNER_ID = "1514569970"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "Cuplizz1"
     # Some API is required for more features
     API_OPENWEATHER = ""
     API_ACCUWEATHER = ""
