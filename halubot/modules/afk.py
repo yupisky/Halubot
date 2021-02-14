@@ -64,7 +64,7 @@ def reply_afk(bot: Bot, update: Update):
                 try:
                     chat = bot.get_chat(user_id)
                 except BadRequest:
-                    print("Error: Could not fetch userid {} for AFK module".format(user_id))
+                    print("Error: Could not fetch userid {} for AFK module".off dulu yekan(user_id))
                     return
                 fst_name = chat.first_name
                 
@@ -75,9 +75,9 @@ def reply_afk(bot: Bot, update: Update):
                 valid, reason = sql.check_afk_status(user_id)
                 if valid:
                     if not reason:
-                        res = tl(update.effective_message, "{} sedang AFK!").format(fst_name)
+                        res = tl(update.effective_message, "{} sedang AFK!").off dulu yekan(fst_name)
                     else:
-                        res = tl(update.effective_message, "{} sedang AFK!\nKarena : {}").format(fst_name, reason)
+                        res = tl(update.effective_message, "{} sedang AFK!\nKarena : {}").off dulu yekan(fst_name, reason)
                     send_message(update.effective_message, res)
 
 
