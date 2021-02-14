@@ -1,6 +1,6 @@
 
 {
-    "name": "HaluBot",
+    "name": "Meutia Rahmariantii",
     "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
     "keywords": [
       "telegram",
@@ -16,16 +16,16 @@
         "value": "ANYTHING"
       },
       "TOKEN": {
-        "description": "Your bot token, as a string.",
+        "description": "1623692243:AAGJ-QLKUpzQEQBvYfALs3YDciXuthJ4aMQ",
         "value": ""
       },
       "OWNER_ID": {
         "description": "An integer of consisting of your owner ID",
-        "value": "1123523488"
+        "value": "1514569970"
       },
       "OWNER_USERNAME": {
         "description": "Your username",
-        "value": "AL_CUTEID"
+        "value": "Cuplizz1"
       },
       "WEBHOOK": {
         "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,11 +41,11 @@
       },
       "SUDO_USERS": {
         "description": "A space separated list of user_ids which should be considered sudo users",
-        "value": "1514569970"
+        "value": "1514569970 1330133497 1123523488"
       },
       "SUPPORT_USERS": {
         "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-        "value": "1277072532"
+        "value": "1514569970 1330133497 1123523488"
       },
       "WHITELIST_USERS": {
         "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
